@@ -1,0 +1,1 @@
+# aws-ami-creation-with-packer-and-ansible

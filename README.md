@@ -18,35 +18,27 @@ This project automates the creation of a custom Amazon Machine Image (AMI) using
 
 <p align="center">
 Set Up Packer, Ansible, and AWS CLI <br />
-<img src="https://i.imgur.com/clwOB8s.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/clwOB8s.jpeg" />
 <br />
 <br />
 Create Packer Configuration <br/>
-<img src="https://i.imgur.com/Zst54BN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zst54BN.jpeg"/>
 <br />
 <br />
 Define Provisioning with Ansible <br/>
-<img src="https://i.imgur.com/30ZgySm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/30ZgySm.jpeg" />
 <br />
 <br />
 Run the Packer Build <br/>
-<img src="https://i.imgur.com/7nFp9hR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7nFp9hR.jpeg" />
 <br />
 <br />
 Newly Created AMI in the AWS Management Console.
 <br/>
-<img src="https://i.imgur.com/jtwNhDR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jtwNhDR.jpeg" />
 <br />
 <br />
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
